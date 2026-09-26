@@ -1,0 +1,26 @@
+==================================================
+       CATALOGO DISNEY+ POR ESTILO Y GENERO      
+==================================================
+
+[ ANIMACION CLASICA 2D ]
+- Hércules
+- La Sirenita
+- Tarzán
+
+[ ANIMACION 3D / PIXAR ]
+- WALL-E
+- Coco
+- Elemental
+
+[ LIVE-ACTION ]
+- Piratas del Caribe: La maldición del Perla Negra
+- Alicia en el país de las maravillas
+- Juego de Gemelas
+
+[ Universo Marvel ]
+- Avengers: Endgame
+- Spider-Man: No Way Home
+
+[ Saga Star Wars ]
+- Star Wars: Una nueva esperanza
+- The Mandalorian

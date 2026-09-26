@@ -1,0 +1,2 @@
+total de ventas: 400.00
+promedio por venta: 133.33

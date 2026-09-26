@@ -1,0 +1,2 @@
+[1] 12/06/2023 - alta de usuario
+[2] 12/06/2023 - modificacion de saldo

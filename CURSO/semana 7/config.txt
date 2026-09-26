@@ -1,0 +1,3 @@
+usuario: ana
+nivel: avanzado
+idioma: espanol

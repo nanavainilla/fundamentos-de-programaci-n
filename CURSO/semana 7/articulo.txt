@@ -1,0 +1,3 @@
+python es facil
+Java es dificil
+python es poderoso
